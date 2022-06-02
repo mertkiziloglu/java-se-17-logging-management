@@ -1,0 +1,8 @@
+# Project exclude paths
+/02/demos/demo/carvedrockfitness_basic_logging/target/
+/02/demos/demo/carvedrockfitness_without_logging/target/
+/03/demos/demo/carvedrockfitness_beginning_M3/target/
+/03/demos/demo/carvedrockfitness_end_M3/target/
+/04/demos/demo/carvedrockfitness_beginning_M4/target/
+/04/demos/demo/carvedrockfitness_end_M4/target/
+/05/demos/best-practices/target/
