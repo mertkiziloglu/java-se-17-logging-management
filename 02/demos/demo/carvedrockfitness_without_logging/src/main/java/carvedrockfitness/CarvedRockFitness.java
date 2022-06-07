@@ -20,7 +20,7 @@ public class CarvedRockFitness {
         //some code that pretends to be a user and places an order
 
         // add user
-        User user = new User(4, "Maaike", "maaike@maaike.nl", LocalDateTime.now(), UserStatus.PENDING);
+        User user = new User(4, "Meroot", "meroot@meroot.tr", LocalDateTime.now(), UserStatus.PENDING);
         UserController userController = new UserController();
         userController.addUser(user);
 
